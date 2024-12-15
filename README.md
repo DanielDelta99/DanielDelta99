@@ -21,8 +21,8 @@
 ---
 
 ## **⚡ Curiosidade**  
-*"Se não nasci com dons naturais, então preciso me esforçar 500 vezes mais."*  
-Se você sabe de quem é essa frase, parabéns! Ela é minha inspiração diária. 💪  
+*"Se não nasci com dons naturais, então preciso me esforçar 500 vezes mais."*
+Essa frase se tornou meu lema de vida. Nada vem de graça; tudo é conquistado com muita garra, esforço e suor. Porém, se mesmo assim você fracassar, que não seja por preguiça ou medo de tentar. 💪 
 
 ---
 
