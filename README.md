@@ -19,6 +19,8 @@
 🔹 **Objetivos em Desenvolvimento**:
 - [ ] Estudando **Java** para expandir meus conhecimentos em programação e aumentar minha capacidade de desenvolver sistemas robustos.
 - [ ] Criando e compartilhando projetos práticos no GitHub para aplicar minhas habilidades e acompanhar minha evolução.
+- [ ] Desenvolvendo um app de acompanhamento de gastos diários.
+- [ ] Aprendendo Android Studio.
 
 🔹 **Objetivos Futuros**:
 - [ ] Iniciar curso de **Programação Orientada a Objetos** com a linguagem **Java**.
